@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-HW07.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\JinYoung\UE\UEC\HW07\Intermediate\Build\Win64\x64\HW07Editor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.obj"
+"C:\Users\JinYoung\UE\UEC\HW07\Intermediate\Build\Win64\x64\UnrealEditor\Development\HW07\HW07.cpp.obj"
+"C:\Users\JinYoung\UE\UEC\HW07\Intermediate\Build\Win64\x64\UnrealEditor\Development\HW07\PerModuleInline.gen.cpp.obj"
+"C:\Users\JinYoung\UE\UEC\HW07\Intermediate\Build\Win64\x64\UnrealEditor\Development\HW07\Default.rc2.res"
+/OUT:"C:\Users\JinYoung\UE\UEC\HW07\Intermediate\Build\Win64\x64\UnrealEditor\Development\HW07\UnrealEditor-HW07.lib"

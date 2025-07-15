@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\jinyoung\\ue\\uec\\hw07\\intermediate\\build\\win64\\unrealeditor\\inc\\hw07\\uht\\hw07.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\jinyoung\\ue\\uec\\hw07\\intermediate\\build\\win64\\x64\\hw07editor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\jinyoung\\ue\\uec\\hw07\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\hw07\\definitions.hw07.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

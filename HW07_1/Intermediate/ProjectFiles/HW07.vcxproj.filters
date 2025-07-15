@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\HW07.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\HW07.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\HW07Editor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\.vsconfig" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\HW07">
+      <UniqueIdentifier>{8FB08732-2E49-3276-B664-E7068CBCCAF6}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\HW07\HW07.Build.cs">
+      <Filter>Source\HW07</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\HW07\HW07.cpp">
+      <Filter>Source\HW07</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\HW07\HW07.h">
+      <Filter>Source\HW07</Filter>
+    </ClCompile>
+    <Filter Include="Source\HW07\Private">
+      <UniqueIdentifier>{334A8A3A-1C9B-3534-AD21-C03596AC65EE}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\HW07\Private\MyPawn.cpp">
+      <Filter>Source\HW07\Private</Filter>
+    </ClCompile>
+    <Filter Include="Source\HW07\Public">
+      <UniqueIdentifier>{DAD5EBE2-B463-38EB-8172-75B3B7AF9D05}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\HW07\Public\MyPawn.h">
+      <Filter>Source\HW07\Public</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
